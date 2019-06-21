@@ -1,0 +1,37 @@
+h2{
+	background: url(lambhorghini.jpg);
+	text-indent: 100px;
+	width: 640px;
+	height: 360px;
+}
+
+textarea{
+	width: 300px;
+	height: 150px;
+}
+ul {
+
+	list-style: none;
+	font-family: sans-serif;
+
+}
+
+ul a:hover{
+	text-decoration: underline;
+	font-size: 30px;
+	color: blue;
+
+
+}
+li{
+	display: inline;
+	padding: 10px;
+
+
+}
+
+
+li a{
+	color: red;
+	text-decoration: none;
+}
